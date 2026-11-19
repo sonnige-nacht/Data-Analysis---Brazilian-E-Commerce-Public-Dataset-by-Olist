@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿# Brazilian E-Commerce Data Analysis
 
 An end-to-end analysis of the Brazilian E-Commerce Public Dataset by Olist. This project explores the source data with Python, prepares it in SQL, builds a dimensional data warehouse, and presents the results in a Power BI dashboard.
@@ -89,3 +90,7 @@ The SQL views cover customer and seller distribution, product categories, order 
 - The data-quality outputs and screenshots are in `reports/insights/`.
 - The loader replaces destination tables; use it only with a suitable database.
 - The raw dataset and local Python environments are excluded by `.gitignore`.
+=======
+# Data-Analysis---Brazilian-E-Commerce-Public-Dataset-by-Olist
+End-to-end data analysis of the Brazilian E-Commerce (Olist) dataset using Python, SQL, and Power BI, uncovering insights into sales performance, customer behavior, and business trends through interactive dashboards.
+>>>>>>> ececc0955afd9ccc99e23601aace57326f2b5b05
