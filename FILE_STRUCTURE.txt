@@ -1,0 +1,26 @@
+﻿.
+|-- datasets/
+|   |-- DATASET.txt
+|   `-- raw/                         (downloaded CSV files go here)
+|-- python/
+|   |-- _data_exploration.ipynb
+|   `-- _load_to_database.py
+|-- sql/
+|   |-- 00_set_user.sql
+|   |-- 01_multi_table_data_transfer.sql
+|   |-- 02_setup_schemas_and_transfer_tables_to_raw_schema_for_dwh.sql
+|   |-- 03_raw_schema_data_quality_check.sql
+|   |-- 04_transfer_tables_to_staging_schema.sql
+|   |-- 05_stg_schema_clean_data.sql
+|   |-- 06_create_dw_star_schema.sql
+|   |-- 07_cleaning_after_datawarehouse_creation.sql
+|   `-- views/                       (analytical SQL views)
+|-- powerbi/
+|   |-- 08_Dashboard_PowerBI.pbix
+|   `-- Power BI Color Theme - University of Melbourne.json
+|-- reports/
+|   |-- 08_Dashboard_PowerBI.pdf
+|   `-- insights/                    (quality-check outputs and screenshots)
+|-- .gitignore
+|-- FILE_STRUCTURE.txt
+`-- README.md

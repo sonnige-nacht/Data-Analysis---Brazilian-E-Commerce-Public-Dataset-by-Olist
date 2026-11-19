@@ -1,0 +1,4 @@
+Brazilian E-Commerce Public Dataset by Olist
+https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+
+Download and extract the CSV files into datasets/raw/.

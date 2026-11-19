@@ -1,0 +1,7 @@
+datasets/raw/*
+!datasets/raw/.gitkeep
+myenv/
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.vscode/
