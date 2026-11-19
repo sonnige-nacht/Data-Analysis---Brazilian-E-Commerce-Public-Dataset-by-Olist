@@ -32,12 +32,15 @@ The raw data is not included in this repository because of its size. Download th
 
 ## Dashboard
 
+<<<<<<< HEAD
 The Power BI dashboard presents the results of the e-commerce data analysis.
 
 ### Dashboard Preview
 
 ![Power BI Dashboard](images/main-dashboard.png)
 
+=======
+>>>>>>> 904974adda26b7164db4d5bcc504f50e7fbcb8ee
 The Power BI report is available in [powerbi/08_Dashboard_PowerBI.pbix](powerbi/08_Dashboard_PowerBI.pbix).
 
 For a static view, open the [Dashboard PDF](reports/08_Dashboard_PowerBI.pdf). The report's color theme is stored alongside the PBIX file.
@@ -70,8 +73,11 @@ The SQL views cover customer and seller distribution, product categories, order 
 ├── reports/
 │   ├── 08_Dashboard_PowerBI.pdf
 │   └── insights/
+<<<<<<< HEAD
 ├── images/
 │   └── dashboard.png
+=======
+>>>>>>> 904974adda26b7164db4d5bcc504f50e7fbcb8ee
 ├── .gitignore
 ├── FILE_STRUCTURE.txt
 └── README.md
@@ -107,4 +113,8 @@ The SQL views cover customer and seller distribution, product categories, order 
 
 ## Author
 
+<<<<<<< HEAD
 Created as a Data Analytics portfolio project using Python, SQL, PostgreSQL, and Power BI.
+=======
+Created as a Data Analytics portfolio project using Python, SQL, PostgreSQL, and Power BI.
+>>>>>>> 904974adda26b7164db4d5bcc504f50e7fbcb8ee
